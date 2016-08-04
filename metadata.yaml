@@ -1,0 +1,25 @@
+_repo: The-Gaming-Table--Its-Votaries-and-Victims.-Volume-II--of-II-_531
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Steinmetz, Andrew
+    birthdate: 1816
+    deathdate: 1877
+    gutenberg_agent_id: '248'
+    url: http://www.gutenberg.org/2009/agents/248
+description: ''
+gutenberg_issued: '1996-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '531'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gambling'
+- !lcc 'GV'
+- !lcc 'HV'
+- GITenberg
+title: 'The Gaming Table: Its Votaries and Victims. Volume 2 (of 2)'
+url: http://www.gutenberg.org/ebooks/531
